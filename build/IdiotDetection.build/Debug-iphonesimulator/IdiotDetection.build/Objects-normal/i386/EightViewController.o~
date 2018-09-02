@@ -1,0 +1,8 @@
+/Users/Lucas/Documents/IdiotDetection/Classes/../EightViewController.m: In function '-[EightViewController changdois]':
+/Users/Lucas/Documents/IdiotDetection/Classes/../EightViewController.m:5: error: 'EightTwoViewController' undeclared (first use in this function)
+/Users/Lucas/Documents/IdiotDetection/Classes/../EightViewController.m:5: error: (Each undeclared identifier is reported only once
+/Users/Lucas/Documents/IdiotDetection/Classes/../EightViewController.m:5: error: for each function it appears in.)
+/Users/Lucas/Documents/IdiotDetection/Classes/../EightViewController.m:5: error: 'oitodois' undeclared (first use in this function)
+/Users/Lucas/Documents/IdiotDetection/Classes/../EightViewController.m: In function '-[EightViewController alertView:clickedButtonAtIndex:]':
+/Users/Lucas/Documents/IdiotDetection/Classes/../EightViewController.m:20: error: 'IdiotDetectionViewController' undeclared (first use in this function)
+/Users/Lucas/Documents/IdiotDetection/Classes/../EightViewController.m:20: error: 'voito' undeclared (first use in this function)

@@ -1,0 +1,8 @@
+/Users/Lucas/Documents/IdiotDetection/Classes/../EightTwoViewController.m: In function '-[EightTwoViewController mudnove]':
+/Users/Lucas/Documents/IdiotDetection/Classes/../EightTwoViewController.m:5: error: 'NineViewController' undeclared (first use in this function)
+/Users/Lucas/Documents/IdiotDetection/Classes/../EightTwoViewController.m:5: error: (Each undeclared identifier is reported only once
+/Users/Lucas/Documents/IdiotDetection/Classes/../EightTwoViewController.m:5: error: for each function it appears in.)
+/Users/Lucas/Documents/IdiotDetection/Classes/../EightTwoViewController.m:5: error: 'nove' undeclared (first use in this function)
+/Users/Lucas/Documents/IdiotDetection/Classes/../EightTwoViewController.m: In function '-[EightTwoViewController alertView:clickedButtonAtIndex:]':
+/Users/Lucas/Documents/IdiotDetection/Classes/../EightTwoViewController.m:20: error: 'IdiotDetectionViewController' undeclared (first use in this function)
+/Users/Lucas/Documents/IdiotDetection/Classes/../EightTwoViewController.m:20: error: 'vnove' undeclared (first use in this function)

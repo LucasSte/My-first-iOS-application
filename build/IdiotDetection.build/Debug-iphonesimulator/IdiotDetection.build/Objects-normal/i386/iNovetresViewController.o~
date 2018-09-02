@@ -1,0 +1,8 @@
+/Users/Lucas/Documents/IdiotDetection/Classes/../iNovetresViewController.m: In function '-[iNovetresViewController mudinvq]':
+/Users/Lucas/Documents/IdiotDetection/Classes/../iNovetresViewController.m:5: error: 'iNovequatroViewController' undeclared (first use in this function)
+/Users/Lucas/Documents/IdiotDetection/Classes/../iNovetresViewController.m:5: error: (Each undeclared identifier is reported only once
+/Users/Lucas/Documents/IdiotDetection/Classes/../iNovetresViewController.m:5: error: for each function it appears in.)
+/Users/Lucas/Documents/IdiotDetection/Classes/../iNovetresViewController.m:5: error: 'invq' undeclared (first use in this function)
+/Users/Lucas/Documents/IdiotDetection/Classes/../iNovetresViewController.m: In function '-[iNovetresViewController alertView:clickedButtonAtIndex:]':
+/Users/Lucas/Documents/IdiotDetection/Classes/../iNovetresViewController.m:20: error: 'IdiotDetectionViewController' undeclared (first use in this function)
+/Users/Lucas/Documents/IdiotDetection/Classes/../iNovetresViewController.m:20: error: 'voltinoq' undeclared (first use in this function)

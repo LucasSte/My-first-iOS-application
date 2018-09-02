@@ -1,0 +1,9 @@
+/Users/Lucas/Documents/IdiotDetection/Classes/../SvierViewController.m: In function '-[SvierViewController mudsfunf]':
+/Users/Lucas/Documents/IdiotDetection/Classes/../SvierViewController.m:5: error: 'SfunfViewController' undeclared (first use in this function)
+/Users/Lucas/Documents/IdiotDetection/Classes/../SvierViewController.m:5: error: (Each undeclared identifier is reported only once
+/Users/Lucas/Documents/IdiotDetection/Classes/../SvierViewController.m:5: error: for each function it appears in.)
+/Users/Lucas/Documents/IdiotDetection/Classes/../SvierViewController.m:5: error: 'sfunf' undeclared (first use in this function)
+/Users/Lucas/Documents/IdiotDetection/Classes/../SvierViewController.m:5: error: expected ']' before 'initWithNibName'
+/Users/Lucas/Documents/IdiotDetection/Classes/../SvierViewController.m: In function '-[SvierViewController alertView:clickedButtonAtIndex:]':
+/Users/Lucas/Documents/IdiotDetection/Classes/../SvierViewController.m:20: error: 'IdiotDetectionViewController' undeclared (first use in this function)
+/Users/Lucas/Documents/IdiotDetection/Classes/../SvierViewController.m:20: error: 'volvier' undeclared (first use in this function)

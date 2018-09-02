@@ -1,0 +1,8 @@
+/Users/Lucas/Documents/IdiotDetection/Classes/../iSeteViewController.m: In function '-[iSeteViewController mudised]':
+/Users/Lucas/Documents/IdiotDetection/Classes/../iSeteViewController.m:5: error: 'iSetedoisViewController' undeclared (first use in this function)
+/Users/Lucas/Documents/IdiotDetection/Classes/../iSeteViewController.m:5: error: (Each undeclared identifier is reported only once
+/Users/Lucas/Documents/IdiotDetection/Classes/../iSeteViewController.m:5: error: for each function it appears in.)
+/Users/Lucas/Documents/IdiotDetection/Classes/../iSeteViewController.m:5: error: 'isetd' undeclared (first use in this function)
+/Users/Lucas/Documents/IdiotDetection/Classes/../iSeteViewController.m: In function '-[iSeteViewController alertView:clickedButtonAtIndex:]':
+/Users/Lucas/Documents/IdiotDetection/Classes/../iSeteViewController.m:20: error: 'IdiotDetectionViewController' undeclared (first use in this function)
+/Users/Lucas/Documents/IdiotDetection/Classes/../iSeteViewController.m:20: error: 'voltiset' undeclared (first use in this function)

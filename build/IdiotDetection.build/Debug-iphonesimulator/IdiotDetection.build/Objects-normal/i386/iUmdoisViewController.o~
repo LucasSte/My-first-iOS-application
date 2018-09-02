@@ -1,0 +1,7 @@
+In file included from /Users/Lucas/Documents/IdiotDetection/Classes/../iUmdoisViewController.m:1:
+/Users/Lucas/Documents/IdiotDetection/Classes/../iUmdoisViewController.h:3:32: error: iTresViewController.h: No such file or directory
+/Users/Lucas/Documents/IdiotDetection/Classes/../iUmdoisViewController.m: In function '-[iUmdoisViewController mudidos]':
+/Users/Lucas/Documents/IdiotDetection/Classes/../iUmdoisViewController.m:5: error: 'iDoisViewController' undeclared (first use in this function)
+/Users/Lucas/Documents/IdiotDetection/Classes/../iUmdoisViewController.m:5: error: (Each undeclared identifier is reported only once
+/Users/Lucas/Documents/IdiotDetection/Classes/../iUmdoisViewController.m:5: error: for each function it appears in.)
+/Users/Lucas/Documents/IdiotDetection/Classes/../iUmdoisViewController.m:5: error: 'ido' undeclared (first use in this function)

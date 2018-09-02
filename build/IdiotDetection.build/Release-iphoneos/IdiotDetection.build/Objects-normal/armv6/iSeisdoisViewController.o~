@@ -1,0 +1,9 @@
+/Users/Lucas/Documents/IdiotDetection/Classes/../iSeisdoisViewController.m: In function '-[iSeisdoisViewController mudisete]':
+/Users/Lucas/Documents/IdiotDetection/Classes/../iSeisdoisViewController.m:5: error: 'iSeteViewController' undeclared (first use in this function)
+/Users/Lucas/Documents/IdiotDetection/Classes/../iSeisdoisViewController.m:5: error: (Each undeclared identifier is reported only once
+/Users/Lucas/Documents/IdiotDetection/Classes/../iSeisdoisViewController.m:5: error: for each function it appears in.)
+/Users/Lucas/Documents/IdiotDetection/Classes/../iSeisdoisViewController.m:5: error: 'iset' undeclared (first use in this function)
+/Users/Lucas/Documents/IdiotDetection/Classes/../iSeisdoisViewController.m:5: error: expected ']' before 'initWithNibName'
+/Users/Lucas/Documents/IdiotDetection/Classes/../iSeisdoisViewController.m: In function '-[iSeisdoisViewController alertView:clickedButtonAtIndex:]':
+/Users/Lucas/Documents/IdiotDetection/Classes/../iSeisdoisViewController.m:20: error: 'IdiotDetectionViewController' undeclared (first use in this function)
+/Users/Lucas/Documents/IdiotDetection/Classes/../iSeisdoisViewController.m:20: error: 'voltisd' undeclared (first use in this function)

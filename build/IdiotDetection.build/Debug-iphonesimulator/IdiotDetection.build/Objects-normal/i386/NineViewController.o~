@@ -1,0 +1,8 @@
+/Users/Lucas/Documents/IdiotDetection/Classes/../NineViewController.m: In function '-[NineViewController mudnovdois]':
+/Users/Lucas/Documents/IdiotDetection/Classes/../NineViewController.m:5: error: 'NineTwoViewController' undeclared (first use in this function)
+/Users/Lucas/Documents/IdiotDetection/Classes/../NineViewController.m:5: error: (Each undeclared identifier is reported only once
+/Users/Lucas/Documents/IdiotDetection/Classes/../NineViewController.m:5: error: for each function it appears in.)
+/Users/Lucas/Documents/IdiotDetection/Classes/../NineViewController.m:5: error: 'novdois' undeclared (first use in this function)
+/Users/Lucas/Documents/IdiotDetection/Classes/../NineViewController.m: In function '-[NineViewController alertView:clickedButtonAtIndex:]':
+/Users/Lucas/Documents/IdiotDetection/Classes/../NineViewController.m:20: error: 'IdiotDetectionViewController' undeclared (first use in this function)
+/Users/Lucas/Documents/IdiotDetection/Classes/../NineViewController.m:20: error: 'vnov' undeclared (first use in this function)

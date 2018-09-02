@@ -1,0 +1,34 @@
+/Users/Lucas/Documents/IdiotDetection/Classes/../FourthTwoViewController.m: In function '-[FourthTwoViewController alertView:clickedButtonAtIndex:]':
+/Users/Lucas/Documents/IdiotDetection/Classes/../FourthTwoViewController.m:20: error: 'IdiotDetectionViewController' undeclared (first use in this function)
+/Users/Lucas/Documents/IdiotDetection/Classes/../FourthTwoViewController.m:20: error: (Each undeclared identifier is reported only once
+/Users/Lucas/Documents/IdiotDetection/Classes/../FourthTwoViewController.m:20: error: for each function it appears in.)
+/Users/Lucas/Documents/IdiotDetection/Classes/../FourthTwoViewController.m:20: error: 'quarvolt' undeclared (first use in this function)
+{standard input}:189:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000002$pb"
+{standard input}:189:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+{standard input}:172:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000002$pb"
+{standard input}:172:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+{standard input}:160:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000002$pb"
+{standard input}:160:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+{standard input}:157:non-relocatable subtraction expression, "L_OBJC_CLASS_REFERENCES_1" minus "L00000000002$pb"
+{standard input}:157:symbol: "L_OBJC_CLASS_REFERENCES_1" can't be undefined in a subtraction expression
+{standard input}:84:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"
+{standard input}:84:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+{standard input}:75:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"
+{standard input}:75:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+{standard input}:66:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"
+{standard input}:66:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+{standard input}:56:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
+{standard input}:56:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+{standard input}:50:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+{standard input}:50:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+{standard input}:47:non-relocatable subtraction expression, "L_OBJC_CLASS_REFERENCES_0" minus "L00000000001$pb"
+{standard input}:47:symbol: "L_OBJC_CLASS_REFERENCES_0" can't be undefined in a subtraction expression
+{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_REFERENCES_0
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4
+{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_REFERENCES_1
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6

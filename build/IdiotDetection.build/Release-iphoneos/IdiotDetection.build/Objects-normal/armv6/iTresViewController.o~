@@ -1,0 +1,8 @@
+/Users/Lucas/Documents/IdiotDetection/Classes/../iTresViewController.m: In function '-[iTresViewController mudiqua]':
+/Users/Lucas/Documents/IdiotDetection/Classes/../iTresViewController.m:5: error: 'iQuatroViewController' undeclared (first use in this function)
+/Users/Lucas/Documents/IdiotDetection/Classes/../iTresViewController.m:5: error: (Each undeclared identifier is reported only once
+/Users/Lucas/Documents/IdiotDetection/Classes/../iTresViewController.m:5: error: for each function it appears in.)
+/Users/Lucas/Documents/IdiotDetection/Classes/../iTresViewController.m:5: error: 'iqua' undeclared (first use in this function)
+/Users/Lucas/Documents/IdiotDetection/Classes/../iTresViewController.m: In function '-[iTresViewController alertView:clickedButtonAtIndex:]':
+/Users/Lucas/Documents/IdiotDetection/Classes/../iTresViewController.m:20: error: 'IdiotDetectionViewController' undeclared (first use in this function)
+/Users/Lucas/Documents/IdiotDetection/Classes/../iTresViewController.m:20: error: 'voltait' undeclared (first use in this function)

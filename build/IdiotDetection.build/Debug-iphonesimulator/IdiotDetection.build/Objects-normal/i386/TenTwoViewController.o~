@@ -1,0 +1,8 @@
+/Users/Lucas/Documents/IdiotDetection/Classes/../TenTwoViewController.m: In function '-[TenTwoViewController meddt]':
+/Users/Lucas/Documents/IdiotDetection/Classes/../TenTwoViewController.m:5: error: 'TenThreeViewController' undeclared (first use in this function)
+/Users/Lucas/Documents/IdiotDetection/Classes/../TenTwoViewController.m:5: error: (Each undeclared identifier is reported only once
+/Users/Lucas/Documents/IdiotDetection/Classes/../TenTwoViewController.m:5: error: for each function it appears in.)
+/Users/Lucas/Documents/IdiotDetection/Classes/../TenTwoViewController.m:5: error: 'dezt' undeclared (first use in this function)
+/Users/Lucas/Documents/IdiotDetection/Classes/../TenTwoViewController.m: In function '-[TenTwoViewController alertView:clickedButtonAtIndex:]':
+/Users/Lucas/Documents/IdiotDetection/Classes/../TenTwoViewController.m:20: error: 'IdiotDetectionViewController' undeclared (first use in this function)
+/Users/Lucas/Documents/IdiotDetection/Classes/../TenTwoViewController.m:20: error: 'vdezd' undeclared (first use in this function)

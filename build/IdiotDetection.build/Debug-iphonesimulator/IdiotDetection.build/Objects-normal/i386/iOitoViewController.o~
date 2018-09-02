@@ -1,0 +1,8 @@
+/Users/Lucas/Documents/IdiotDetection/Classes/../iOitoViewController.m: In function '-[iOitoViewController mudioid]':
+/Users/Lucas/Documents/IdiotDetection/Classes/../iOitoViewController.m:5: error: 'iOitodoisViewController' undeclared (first use in this function)
+/Users/Lucas/Documents/IdiotDetection/Classes/../iOitoViewController.m:5: error: (Each undeclared identifier is reported only once
+/Users/Lucas/Documents/IdiotDetection/Classes/../iOitoViewController.m:5: error: for each function it appears in.)
+/Users/Lucas/Documents/IdiotDetection/Classes/../iOitoViewController.m:5: error: 'ioiod' undeclared (first use in this function)
+/Users/Lucas/Documents/IdiotDetection/Classes/../iOitoViewController.m: In function '-[iOitoViewController alertView:clickedButtonAtIndex:]':
+/Users/Lucas/Documents/IdiotDetection/Classes/../iOitoViewController.m:20: error: 'IdiotDetectionViewController' undeclared (first use in this function)
+/Users/Lucas/Documents/IdiotDetection/Classes/../iOitoViewController.m:20: error: 'voltioi' undeclared (first use in this function)

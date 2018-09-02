@@ -1,0 +1,21 @@
+//
+//  IdiotDetectionViewController.h
+//  IdiotDetection
+//
+//  Created by Lucas Steuernagel on 11/29/11.
+//  Copyright __MyCompanyName__ 2011. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+#import "SecondViewController.h"
+
+@interface IdiotDetectionViewController : UIViewController {
+	
+
+
+}
+-(IBAction)switchViews;
+-(IBAction)oneidiot;
+
+@end
+

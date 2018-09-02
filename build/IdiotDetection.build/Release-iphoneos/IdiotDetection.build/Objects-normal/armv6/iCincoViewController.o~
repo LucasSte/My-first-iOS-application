@@ -1,0 +1,5 @@
+/Users/Lucas/Documents/IdiotDetection/Classes/../iCincoViewController.m: In function '-[iCincoViewController mudiseis]':
+/Users/Lucas/Documents/IdiotDetection/Classes/../iCincoViewController.m:5: error: expected ']' before 'initWithNibName'
+/Users/Lucas/Documents/IdiotDetection/Classes/../iCincoViewController.m:6: error: 'ise' undeclared (first use in this function)
+/Users/Lucas/Documents/IdiotDetection/Classes/../iCincoViewController.m:6: error: (Each undeclared identifier is reported only once
+/Users/Lucas/Documents/IdiotDetection/Classes/../iCincoViewController.m:6: error: for each function it appears in.)

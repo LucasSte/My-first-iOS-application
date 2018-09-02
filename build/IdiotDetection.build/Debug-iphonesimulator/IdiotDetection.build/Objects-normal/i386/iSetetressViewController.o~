@@ -1,0 +1,8 @@
+/Users/Lucas/Documents/IdiotDetection/Classes/../iSetetressViewController.m: In function '-[iSetetressViewController mudoioi]':
+/Users/Lucas/Documents/IdiotDetection/Classes/../iSetetressViewController.m:5: error: 'iOitoViewController' undeclared (first use in this function)
+/Users/Lucas/Documents/IdiotDetection/Classes/../iSetetressViewController.m:5: error: (Each undeclared identifier is reported only once
+/Users/Lucas/Documents/IdiotDetection/Classes/../iSetetressViewController.m:5: error: for each function it appears in.)
+/Users/Lucas/Documents/IdiotDetection/Classes/../iSetetressViewController.m:5: error: 'ioio' undeclared (first use in this function)
+/Users/Lucas/Documents/IdiotDetection/Classes/../iSetetressViewController.m: In function '-[iSetetressViewController alertView:clickedButtonAtIndex:]':
+/Users/Lucas/Documents/IdiotDetection/Classes/../iSetetressViewController.m:20: error: 'IdiotDetectionViewController' undeclared (first use in this function)
+/Users/Lucas/Documents/IdiotDetection/Classes/../iSetetressViewController.m:20: error: 'voltisett' undeclared (first use in this function)

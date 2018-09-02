@@ -1,0 +1,8 @@
+/Users/Lucas/Documents/IdiotDetection/Classes/../iNoveViewController.m: In function '-[iNoveViewController mudinod]':
+/Users/Lucas/Documents/IdiotDetection/Classes/../iNoveViewController.m:5: error: 'iNovedoisViewController' undeclared (first use in this function)
+/Users/Lucas/Documents/IdiotDetection/Classes/../iNoveViewController.m:5: error: (Each undeclared identifier is reported only once
+/Users/Lucas/Documents/IdiotDetection/Classes/../iNoveViewController.m:5: error: for each function it appears in.)
+/Users/Lucas/Documents/IdiotDetection/Classes/../iNoveViewController.m:5: error: 'inovd' undeclared (first use in this function)
+/Users/Lucas/Documents/IdiotDetection/Classes/../iNoveViewController.m: In function '-[iNoveViewController alertView:clickedButtonAtIndex:]':
+/Users/Lucas/Documents/IdiotDetection/Classes/../iNoveViewController.m:20: error: 'IdiotDetectionViewController' undeclared (first use in this function)
+/Users/Lucas/Documents/IdiotDetection/Classes/../iNoveViewController.m:20: error: 'voltino' undeclared (first use in this function)

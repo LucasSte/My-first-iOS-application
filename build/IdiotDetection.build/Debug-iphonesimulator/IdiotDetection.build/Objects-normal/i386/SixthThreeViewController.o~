@@ -1,0 +1,8 @@
+/Users/Lucas/Documents/IdiotDetection/Classes/../SixthThreeViewController.m: In function '-[SixthThreeViewController changeseven]':
+/Users/Lucas/Documents/IdiotDetection/Classes/../SixthThreeViewController.m:5: error: 'SeventhViewController' undeclared (first use in this function)
+/Users/Lucas/Documents/IdiotDetection/Classes/../SixthThreeViewController.m:5: error: (Each undeclared identifier is reported only once
+/Users/Lucas/Documents/IdiotDetection/Classes/../SixthThreeViewController.m:5: error: for each function it appears in.)
+/Users/Lucas/Documents/IdiotDetection/Classes/../SixthThreeViewController.m:5: error: 'sete' undeclared (first use in this function)
+/Users/Lucas/Documents/IdiotDetection/Classes/../SixthThreeViewController.m: In function '-[SixthThreeViewController alertView:clickedButtonAtIndex:]':
+/Users/Lucas/Documents/IdiotDetection/Classes/../SixthThreeViewController.m:20: error: 'IdiotDetectionViewController' undeclared (first use in this function)
+/Users/Lucas/Documents/IdiotDetection/Classes/../SixthThreeViewController.m:20: error: 'voltseisdois' undeclared (first use in this function)

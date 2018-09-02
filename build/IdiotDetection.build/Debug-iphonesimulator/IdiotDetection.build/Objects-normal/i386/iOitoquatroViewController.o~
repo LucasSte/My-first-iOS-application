@@ -1,0 +1,8 @@
+/Users/Lucas/Documents/IdiotDetection/Classes/../iOitoquatroViewController.m: In function '-[iOitoquatroViewController mudinov]':
+/Users/Lucas/Documents/IdiotDetection/Classes/../iOitoquatroViewController.m:5: error: 'iNoveViewController' undeclared (first use in this function)
+/Users/Lucas/Documents/IdiotDetection/Classes/../iOitoquatroViewController.m:5: error: (Each undeclared identifier is reported only once
+/Users/Lucas/Documents/IdiotDetection/Classes/../iOitoquatroViewController.m:5: error: for each function it appears in.)
+/Users/Lucas/Documents/IdiotDetection/Classes/../iOitoquatroViewController.m:5: error: 'inovu' undeclared (first use in this function)
+/Users/Lucas/Documents/IdiotDetection/Classes/../iOitoquatroViewController.m: In function '-[iOitoquatroViewController alertView:clickedButtonAtIndex:]':
+/Users/Lucas/Documents/IdiotDetection/Classes/../iOitoquatroViewController.m:20: error: 'IdiotDetectionViewController' undeclared (first use in this function)
+/Users/Lucas/Documents/IdiotDetection/Classes/../iOitoquatroViewController.m:20: error: 'voltioiq' undeclared (first use in this function)
